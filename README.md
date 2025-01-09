@@ -1,3 +1,8 @@
+title: Krishna Chaitanya Karuturi
+logo: /assests/img/headshot_circle.png
+show_downloads: true
+theme: jekyll-theme-minimal
+
 # Sr. Quality Engineer | Project Manager
 
 ## Contact Info
